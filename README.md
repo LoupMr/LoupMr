@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Loup Marquez-Luttringer</h1>
 <h3 align="center">👀 I’m interested in a lot of stuff. - 🌱 I’m currently learning a lot of stuff.</h3>
 
-- 🔭 I’m currently working on [StartDay](https://github.com/LoupMr/StartDay)
+- 🔭 I’m currently working on [Horus](https://github.com/LothMar-Systems)
 
-- 🌱 I’m currently learning **AI Model Deployment with NPU Acceleration**
-
-- 👯 I’m currently working on [Social-Sync-Dashboard](https://github.com/LoupMr/Social-Sync-Dashboard)
+- 🌱 I’m currently learning **AI Model Deployment & Data Warehouse**
 
 - 📫 How to reach me **loup.marquez@epitech.eu**
 
