@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Loup Marquez-Luttringer</h1>
 <h3 align="center">👀 I’m interested in a lot of stuff. - 🌱 I’m currently learning a lot of stuff.</h3>
 
+Coffee Break: https://ko-fi.com/noeloup
+
 - 🔭 I’m currently working on [Horus](https://github.com/LothMar-Systems)
 
 - 🌱 I’m currently learning **AI Model Deployment & Data Warehouse**
