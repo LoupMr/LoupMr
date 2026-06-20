@@ -19,9 +19,9 @@
 
 ### 🌐 Projects & Live Sites
 
-- 🎂 **[Oi Mate WTF](https://oimatewtf.lothmar.com/)** — a birthday site I built for a friend who streams
-- 🌌 **[SC Nexus](https://scnexus.lothmar.com/)** — a site for my Star Citizen org
-- ☕ **[Ko-fi](https://ko-fi.com/noeloup)** — support my work / coffee break
+- 🎂 **[OiMateWTF](https://oimatewtf.lothmar.com/)** — a birthday gift, site I built for a friend.
+- 🌌 **[SC Nexus](https://scnexus.lothmar.com/)** — a site for my Star Citizen org.
+- ☕ **[Ko-fi](https://ko-fi.com/noeloup)** — support my work / coffee break.
 
 ---
 
