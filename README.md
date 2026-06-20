@@ -7,7 +7,7 @@ Coffee Break: https://ko-fi.com/noeloup
 
 - 🌱 I’m currently learning **AI Model Deployment & Data Warehouse**
 
-- 📫 How to reach me **loup.marquez@epitech.eu**
+- 📫 How to reach me **contact@lothmar.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
