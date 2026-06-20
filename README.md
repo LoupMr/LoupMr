@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:contact@lothmar.com"><img src="https://img.shields.io/badge/Email-contact@lothmar.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://linkedin.com/in/loupmarquez"><img src="https://img.shields.io/badge/LinkedIn-loupmarquez-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://ko-fi.com/noeloup"><img src="https://img.shields.io/badge/Ko--fi-Buy_me_a_coffee-FF5E5B?style=flat&logo=ko-fi&logoColor=white" alt="kofi" /></a>
 </p>
 
