@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Loup Marquez-Luttringer</h1>
+<h1 align="center">Hi 👋, I'm Loup</h1>
 <h3 align="center">👀 I’m interested in a lot of stuff. - 🌱 I’m currently learning a lot of stuff.</h3>
 
 Coffee Break: https://ko-fi.com/noeloup
@@ -8,8 +8,6 @@ Coffee Break: https://ko-fi.com/noeloup
 - 🌱 I’m currently learning **AI Model Deployment & Data Warehouse**
 
 - 📫 How to reach me **loup.marquez@epitech.eu**
-
-- ⚡ Fun fact **Despite being a tech enthusiast and a developer, I’ve been learning to cook Korean dishes like gimbap in my free time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
